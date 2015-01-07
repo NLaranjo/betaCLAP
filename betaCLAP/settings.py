@@ -41,7 +41,6 @@ INSTALLED_APPS = (
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'restaurants',
-    'south',
 )
 
 MIDDLEWARE_CLASSES = (
