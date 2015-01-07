@@ -9,7 +9,6 @@ django-cors-headers==0.13
 django-toolbelt==0.0.1
 gunicorn==19.1.1
 html5lib==0.999
-PAM==0.4.2
 pbr==0.10.7
 psycopg2==2.5.4
 pycparser==2.10
