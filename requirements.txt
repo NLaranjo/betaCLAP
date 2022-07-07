@@ -16,7 +16,7 @@ pycrypto==2.6.1
 pyOpenSSL==0.13
 pyserial==2.6
 python-debian==0.1.21
-requests==2.2.1
+requests==2.20.0
 six==1.9.0
 ssh-import-id==3.21
 static3==0.5.1
